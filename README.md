@@ -119,12 +119,6 @@ SacredClarity is designed to:
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 💡 Inspiration
 
 Inspired by the idea that **answers often lie within**, and wisdom texts like the **Bhagavad Gita** can guide us when we learn how to interpret our emotions.
